@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gurjinderm
-- 👀 I’m interested in learning data analysis with R and Python.
+- 👀 I’m interested in learning data analysis with SQL, R and Python.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on data analysis projects for beginngers.
 
